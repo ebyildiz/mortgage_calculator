@@ -1,7 +1,7 @@
 # Mortgage Calculator
 
 ## Overview
-This simple Mortgage Calculator is designed to help users estimate their monthly mortgage payments based on the loan amount, interest rate, and loan term. The calculator provides flexibility by allowing users to input optional parameters such as annual property tax, homeowner's insurance, PMI (Private Mortgage Insurance) cost, and monthly HOA (Homeowner Association) fees.
+This Mortgage Calculator is designed to help users estimate their monthly mortgage payments based on the loan amount, interest rate, and loan term. The calculator allows users to input optional parameters such as annual property tax, homeowner's insurance, PMI (Private Mortgage Insurance) cost, and monthly HOA (Homeowner Association) fees.
 
 ## How to Use
 ### Enter Required Values:
@@ -19,6 +19,5 @@ Click the "Calculate Payment" button to compute the estimated monthly mortgage p
 ### View Result:
 
 The calculated monthly payment will be displayed on the screen.
-Features
 
 
